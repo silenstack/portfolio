@@ -3,7 +3,43 @@
 <head>
 	<title>Artificial Intelligence by 2030</title>
 	<style>
-		/* add your custom styles here */
+		body {
+			font-family: Arial, sans-serif;
+			line-height: 1.6;
+			margin: 20px;
+			max-width: 800px;
+			margin: auto;
+		}
+
+		header {
+			text-align: center;
+			margin-bottom: 20px;
+		}
+
+		h1 {
+			color: #333;
+		}
+
+		main {
+			margin-bottom: 30px;
+		}
+
+		img {
+			display: block;
+			margin: 20px auto;
+			max-width: 100%;
+			height: auto;
+			box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+		}
+
+		p {
+			margin-bottom: 20px;
+		}
+
+		footer {
+			text-align: center;
+			color: #777;
+		}
 	</style>
 </head>
 <body>
@@ -30,4 +66,3 @@
 	</footer>
 </body>
 </html>
-
