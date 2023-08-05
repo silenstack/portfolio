@@ -62,7 +62,7 @@
 		<p>While there are certainly risks and challenges associated with the rise of AI, there is also enormous potential for positive change. By harnessing the power of this technology, we can create a future that is smarter, more efficient, and more equitable.</p>
 	</main>
 	<footer>
-		<p>Written by [Aduda Shem - Software Engineer Jowatechs]</p>
+		<p>Written by Mwawai Henry - Software Engineer | Cyber Security</p>
 	</footer>
 </body>
 </html>
