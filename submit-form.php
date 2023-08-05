@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     
     // Send email
     $to = 'contact@jowatechs.com';
-    $subject = 'New message from Jowa Technologies website';
+    $subject = 'New message from Jowa Technologies' website';
     $body = "Name: $name\nEmail: $email\nMessage: $message";
     
     if (mail($to, $subject, $body)) {
